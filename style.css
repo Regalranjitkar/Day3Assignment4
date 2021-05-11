@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 100%;
+    height: 200vh;
+    background-color: rgb(229, 226, 226);
+}
+.name{
+    width: 100%;
+    height: 15vh;
+    text-align: center;
+}
+h1{
+    padding-top: 2%;
+}
+h5{
+    margin-top: 1%;
+}
+.main-content{
+    background-color: white;
+    width: 98%;
+    height: 96vh;
+    margin-left: 1%;
+}
+img{
+    width: 75%;
+    margin-left: 12.5%;
+}
+.short-sentense{
+    margin-top: 1%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin: 3%;
+}
+.box{
+    margin-left: 32%;
+    margin-right: 32%;
+}
+li{
+    margin: 1%;
+}
+.quote{
+    margin-top: 3%;
+}
+.quoter{
+    margin-top: 1%;
+}
+.link-wiki{
+    margin-left: 28%;
+}
